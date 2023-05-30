@@ -30,7 +30,7 @@
 .form-control.invalid label {
   color:red;
 }
-button.invalid {
+.button.invalid {
   background-color: lightcoral;
   color: white;
 }
